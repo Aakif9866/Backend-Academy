@@ -1,5 +1,7 @@
 # Backend Academy
 
+**Live:** https://backend-academy-roan.vercel.app/
+
 A learning platform that takes you from backend fundamentals to production-grade engineering and large-scale system design. It has 12 levels, 51 lessons, 17 hands-on projects, 9 interactive simulations and 218 quiz questions. Everything is built from the Markdown in this repository.
 
 ```bash
